@@ -19,8 +19,15 @@ Welcome to the recruitment tasks for the Intelligence SIG, Web Club NITK!
 
 Using AI tools and agents for help with tasks is permitted. However, we strictly advise against using AI to draft the entire solution from scratch. It is the responsibility of candidates to ensure that they understand EACH AND EVERY LINE of code/write-up that they submit.
 
-## Submission
+## Submission Rules and Regulations
 
-Fork this repository and make submission notebooks/files under the directory corresponding to the tasks you are attempting. Each task specifies its own submission format in its `README` (typically a notebook/repo per part, plus a short write-up). Follow the structure requested in each task folder, and don't dump outputs into the repository root.
+1. Fork this repository and make submission notebooks/files under the directory corresponding to the tasks you are attempting.
+2. Make sure the repository is **PRIVATE**.
+3. Add the following users as collaborators - `PranavBhatP`, `Vivek-k7`, `Ds0uz4`.
+4. Each task specifies its own submission format in its `README` (typically a notebook/sub-folder per part, plus a short write-up).
+5. Strictly follow the structure requested in each task folder, and don't dump outputs into the repository root.
+6. While submitting to the recruitment's task form, submit the link to this repository after ensuring that you completed instructions to step 2.
+7. Any repos violating the above rules will be discarded and the candidate's submissions will not be considered for evaluation.
+8. Deadline for submission is **5th October, 6pm** (subject to change, stay tuned to the relevant channels).
 
 Good luck!
