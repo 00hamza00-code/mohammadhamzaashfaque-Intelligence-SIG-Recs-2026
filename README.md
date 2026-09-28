@@ -21,6 +21,6 @@ Using AI tools and agents for help with tasks is permitted. However, we strictly
 
 ## Submission
 
-Each task specifies its own submission format in its README (typically a notebook/repo per part, plus a short write-up). Follow the structure requested in each task folder, and don't dump outputs into the repository root.
+Fork this repository and make submission notebooks/files under the directory corresponding to the tasks you are attempting. Each task specifies its own submission format in its `README` (typically a notebook/repo per part, plus a short write-up). Follow the structure requested in each task folder, and don't dump outputs into the repository root.
 
 Good luck!
