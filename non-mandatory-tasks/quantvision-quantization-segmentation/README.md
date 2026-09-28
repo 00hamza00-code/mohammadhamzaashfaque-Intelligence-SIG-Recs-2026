@@ -42,7 +42,7 @@ A well supported negative result is completely valid.
 
 Use the provided **Customized KITTI-MOTS Dataset**.
 
-The link for the dataset: ![link](https://drive.google.com/file/d/19YAN104umEYFaOpE854Yi7UI5mHL5D6j/view?usp=sharing)
+The link for the dataset: https://drive.google.com/file/d/19YAN104umEYFaOpE854Yi7UI5mHL5D6j/view?usp=sharing
 
 The dataset is derived from KITTI-MOTS and has been curated specifically for this challenge.
 
