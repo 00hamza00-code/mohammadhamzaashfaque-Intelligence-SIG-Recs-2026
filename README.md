@@ -21,12 +21,17 @@ Using AI tools and agents for help with tasks is permitted. However, we strictly
 
 ## Submission Rules and Regulations
 
-1. Fork this repository and make submission notebooks/files under the directory corresponding to the tasks you are attempting.
-2. Make sure the repository is **PRIVATE**.
-3. Add the following users as collaborators - `PranavBhatP`, `Vivek-k7`, `Ds0uz4`.
+1. **Create your own private copy of this repository using GitHub's "Import repository" tool, not the "Fork" button.** GitHub does not allow forks of a public repository to be made private, so forking will not work for this step.
+   - Go to [github.com/new/import](https://github.com/new/import).
+   - Under "Your old repository's clone URL," paste: `https://github.com/WebClub-NITK/Intelligence-SIG-Recs-2026.git`
+   - Choose yourself as the **Owner**, pick any repository name, and set **Privacy** to **Private**.
+   - Click **Begin import**. This creates an independent, private repository you fully own, with the complete task history and no fork relationship back to this repository.
+   - If the import tool ever fails or stalls, use this fallback instead: clone this repository locally, remove the `origin` remote, create a new empty private repository on GitHub, add it as your new `origin`, and push.
+2. Make submission notebooks/files under the directory corresponding to the tasks you are attempting, inside your private copy.
+3. Add the following users as collaborators on your private copy - `PranavBhatP`, `Vivek-k7`, `Ds0uz4`.
 4. Each task specifies its own submission format in its `README` (typically a notebook/sub-folder per part, plus a short write-up).
 5. Strictly follow the structure requested in each task folder, and don't dump outputs into the repository root.
-6. While submitting to the recruitment's task form, submit the link to this repository after ensuring that you completed instructions to step 2.
+6. While submitting to the recruitment's task form, submit the link to your private copy after ensuring you've completed steps 1 and 3.
 7. Any repos violating the above rules will be discarded and the candidate's submissions will not be considered for evaluation.
 8. Deadline for submission is **5th October, 6pm** (subject to change, stay tuned to the relevant channels).
 
